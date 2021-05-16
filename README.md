@@ -1,4 +1,4 @@
-<div style="background: url(./Resources/401906190_ITS_COMPLICATED_400px.gif);
+<div style="background: url(https://github.com/prajwal-5/prajwal-5/blob/main/Resources/401906190_ITS_COMPLICATED_400px.gif);
 margin: 0px;
 padding: 0px;">
 <div style="background: rgba(0,0,0,0.5);
