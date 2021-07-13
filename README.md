@@ -6,20 +6,19 @@ margin: 3%;
 padding: 2%">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=prajwal-5&label=Profile%20views&color=0e75b6&style=flat" alt="prajwal-5" /> </p>
 <h1 align="center" style="font-weight: 800;">Hi 👋, I'm Prajwal Rai</h1>
-<h2 align="center" style="font-weight: 600;">A Passionate web developer from India</h2>
+<h2 align="center" style="font-weight: 600;">Aspiring Software developer from India</h2>
 <br/>
 <h2 style="font-weight: 800;">About me:</h2>
 <br>
 <p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal-5&theme=radical" alt="prajwal-5" /></p>
 <div style="font-weight: 800;">
 
-- 🔭 I’m currently working on **Frontend Projects**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **DataStructures and Algorithms**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 💬 Ask me about **HTML,CSS(Advance)**
+- 💬 Ask me about **Basic DSA, C, C++ (along with Standard Template Library), HTML,CSS(Advance)**
 
 - 📫 How to reach me **raiprajwal.paul@gmail.com**
 
@@ -68,12 +67,10 @@ padding: 2%">
 <br/>
 <br/>
 
-<div style="display: flex;
-justify-content: space-around;
-flex-wrap: wrap;">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwal-5&show_icons=true&locale=en&layout=compact&theme=radical" alt="prajwal-5" /></p>
+<div style="">
+<p align="left" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwal-5&show_icons=true&locale=en&layout=compact&theme=radical" alt="prajwal-5" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=prajwal-5&show_icons=true&locale=en&theme=radical" alt="prajwal-5" /></p>
+<p align="right" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=prajwal-5&show_icons=true&locale=en&theme=radical" alt="prajwal-5" /></p>
 </div>
 </div>
 </div>
