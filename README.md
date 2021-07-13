@@ -67,7 +67,7 @@ padding: 2%">
 <br/>
 <br/>
 
-<div style="">
+<div style="display: flex;">
 <p align="left" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwal-5&show_icons=true&locale=en&layout=compact&theme=radical" alt="prajwal-5" /></p>
 
 <p align="right" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=prajwal-5&show_icons=true&locale=en&theme=radical" alt="prajwal-5" /></p>
